@@ -1,4 +1,4 @@
-# Profile Card Challenge Solution
+# Profile Card Challenge
 
 ## Wireframe
 ![Wireframe](./assets/documents/wireframe.png)
