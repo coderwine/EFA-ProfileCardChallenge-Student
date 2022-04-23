@@ -15,7 +15,7 @@ You will need to clone this repository onto your workstation.
 You can do this simply by copying this command in your desired folder location:
 
 `
-git clone https:[filler text]
+git clone https://github.com/coderwine/EFA-ProfileCardChallenge-Student.git
 `
 
 This can also be done by clicking the **"Code" Green Button**. You will then need to click the copy button and paste that in your terminal in your desired location on your workspace.
