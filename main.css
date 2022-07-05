@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    align-content: center;
+    height: 100vh;
+    background-color: red;
+}
+
+.card {
+    border: solid black .5em;
+    border-radius: 20px;
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1rem;
+    background-color: gray;
+}
+
+.profile-pic {
+    height: 300px;
+    max-width: 200px;
+    border-radius: 10px;
+    border: solid black .25em;
+}
+
+div .info {
+    width: 60%;
+    height: 90%;
+    background-color: rgba(255,255,255, .5);
+    padding: .5rem;
+    border-radius: 20px;
+}
+
+.title-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1, h2 {
+    color: black;
+    text-shadow: 4px 2px 4px brown;
+    text-decoration: underline black;
+}
+
